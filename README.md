@@ -4,6 +4,7 @@
 🔗 [Watch Live Dashboard](https://public.tableau.com/app/profile/lovish.mandle/viz/ECommercesales/Dashboard1)
 
 
+## Snapshot ![Uploading Screenshot 2026-01-30 at 5.01.35 PM.png…]()
 ## Tools & Stack Used
 1. MySQL – Data extraction, transformation, modeling, and performance-optimized querying
 2. Tableau – KPI frameworks, interactive dashboards, and insight storytelling
