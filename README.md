@@ -1,5 +1,7 @@
 # Ecommerce-Sales-AI-Analysis This project was designed to replicate a real-world e-commerce analytics workflow, where raw transactional data is transformed into strategic business insights. The objective was not just dashboard creation, but building a decision-support system that answers why performance changes, what drives revenue, and where optimization is required.
 
+### 📊 Live Dashboard
+🔗 [Watch Live Dashboard](https://public.tableau.com/app/profile/lovish.mandle/viz/ECommercesales/Dashboard1)
 
 
 ## Tools & Stack Used
